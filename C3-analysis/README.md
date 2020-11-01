@@ -1,6 +1,6 @@
 # C3 :challenge:
 
-![banner_nissan_leaf](https://user-images.githubusercontent.com/34337781/51199782-04067980-18f8-11e9-8162-06e6a8ea859c.png)
+
 
 ## Structure of the repository
 
